@@ -11,6 +11,7 @@ The primary goal of this analysis is to investigate the factors influencing cust
 Customers on month-to-month contracts have the highest churn rate at 42%.
 One-year contracts: 11% churn rate.
 Two-year contracts: Only 3% churn rate.
+
 📌 Implication: Longer contract periods significantly improve customer retention.
 
 ### 💳 Payment Methods and Churn
@@ -64,18 +65,22 @@ Tenure: 50% churn in the first year, dropping to 15% after three years.
 📅 Promote Long-Term Contracts:
 
 Offer discounts or incentives for customers to switch to longer contracts.
+
 🔒 Address Payment Method Concerns:
 
 Launch campaigns to encourage switching from electronic checks to more reliable payment methods.
+
 🤝 Focus on Early Engagement:
 
 Develop loyalty programs targeting customers within their first year of service.
+
 👵 Senior Citizen Retention Programs:
 
 Create tailored offers and services for senior citizens to address their specific needs.
 🛠 Tools and Technologies Used
-Python, Pandas, Numpy,Matplotlib, Seaborn for data analysis and visualization.
+
+Python, Pandas, Numpy, Matplotlib, and Seaborn for data analysis and visualization.
 
 ### Conects with me :
 
-Linkedin : https://www.linkedin.com/in/sshankt/
+Linkedin: https://www.linkedin.com/in/sshankt/
